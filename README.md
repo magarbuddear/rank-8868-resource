@@ -1,2 +1,14 @@
 # rank-8868-resource
-HTML page archive and documentation
+
+自动生成页面存放处
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
